@@ -1,0 +1,70 @@
+header {
+ position: fixed;
+ right: 0;
+ top: 0;
+}
+
+header li {
+display: inline;   
+float: right;
+padding: 10px;
+}
+
+.google {
+margin: 200px;
+text-align: -webkit-center;
+
+ }
+
+.google form {
+position: relative;
+width: 500px;
+}
+
+
+#button {
+position:;
+padding: 10px;
+display: inline;
+margin: 10px;
+}
+
+footer {
+ position: fixed;
+ bottom: 0;
+ background-color: lightgrey;
+ }
+
+footer li {
+display: inline;   
+margin-left: 5px;
+ margin-right: 5px;
+
+}
+
+#left-footer {
+ float: left;  
+ margin-right: 850px;
+}
+
+#right-footer {
+ float: right;   
+}
+
+a {
+ text-decoration: none;
+ color: black;
+ font-family: arial;
+}
+
+a:hover {
+ text-decoration: underline;   
+}
+
+
+#bluebutton {
+ color: white;
+ background-color: blue;
+ padding: 10px;
+ border-radius: 10px;
+}
